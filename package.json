@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/jasmine": "^3.8.2",
+    "protractor": "^7.0.0"
+  }
+}
